@@ -1,0 +1,38 @@
+.md-social-btn .mbsc-ic {
+    float: left;
+}
+
+.Close {
+    margin-left: 483px;
+    background: border-box;
+    cursor: pointer;
+    border: 1px solid black;
+    background-color: red;
+    border-radius: 2px;
+}
+
+.Button {
+    background-color: transparent;
+    border: none;
+    color: white;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+    border: 1px solid currentColor;
+}
+
+.Button:first-of-type {
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.Success {
+    color: #5C9210;
+}
+
+.Danger {
+    color: #944317;
+}

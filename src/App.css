@@ -1,5 +1,52 @@
 .App {
+  border: 1px solid black;
+  text-align: left;
+  margin-left: 30px;
+}
+
+.form {
+  margin-left : 600px
+}
+
+.update {
+  margin-top : 25px;
+}
+
+.content {
+  margin-left : 600px
+}
+
+.UploadedFile {
+  border : 1px solid black;
+  margin : 2px;
+  border-width: thick;
+  margin-left: 100px;
+  margin-right: 500px;
+}
+
+.buttonP {
+  margin-top : 50px;
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
   text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-right:5px;
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-right:5px;
 }
 
 .App-logo {
